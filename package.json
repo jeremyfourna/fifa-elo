@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeremyfourna/fifa-elo/issues"
   },
-  "homepage": "https://github.com/jeremyfourna/fifa-elo#readme"
+  "homepage": "https://github.com/jeremyfourna/fifa-elo#readme",
+  "dependencies": {
+    "ramda": "^0.28.0"
+  }
 }
